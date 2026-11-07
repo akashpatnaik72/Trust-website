@@ -1,0 +1,23 @@
+[
+  {
+    "id": "testimonial-01",
+    "name": "K. Ravi Teja",
+    "role": "Student Beneficiary (Now pursuing Higher Education)",
+    "quote": "The support from the Seva Samithi was a turning point for me. When my family couldn't afford notebooks and high school fees, the trust sponsored my tuition and study kits. Today, I am the first graduate in my family, all thanks to their timely encouragement.",
+    "location": "Krishna District"
+  },
+  {
+    "id": "testimonial-02",
+    "name": "Priya Sharma",
+    "role": "Volunteer since 2019",
+    "quote": "Volunteering with the trust has been an incredibly grounding experience. Conducting book distribution drives in remote schools and coordinating blood donation camps gives a true sense of purpose. The team operates with absolute transparency and commitment.",
+    "location": "Vijayawada"
+  },
+  {
+    "id": "testimonial-03",
+    "name": "M. Satyanarayana",
+    "role": "Government School Headmaster",
+    "quote": "The Book Distribution Drives by APJ Abdul Kalam Seva Samithi are highly organized. They don't just dump materials; they coordinate with our teaching staff to understand what the kids actually need. Their contribution has noticeably improved attendance in our school.",
+    "location": "Rural Mandal Govt School"
+  }
+]

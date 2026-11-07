@@ -1,0 +1,38 @@
+[
+  {
+    "id": "guest-01",
+    "name": "Sri Nara Chandrababu Naidu",
+    "designation": "Chief Minister of Andhra Pradesh",
+    "event": "Community Welfare & Social Service Appreciation",
+    "year": 2024,
+    "context": "Met during VIP briefing where Sri Nara Chandrababu Naidu appreciated APJ Abdul Kalam Seva Samithi's dedicated services to children and summer buttermilk distribution campaigns.",
+    "img": "/images/venkatrao_chandrababu.JPG"
+  },
+  {
+    "id": "guest-02",
+    "name": "Sri Y. S. Jagan Mohan Reddy",
+    "designation": "Former Chief Minister of Andhra Pradesh",
+    "event": "Educational Welfare Review Meeting",
+    "year": 2023,
+    "context": "Met during the state coordination meet. Sri Y. S. Jagan Mohan Reddy was briefed on the rural notebook distribution drives and commended the president's commitment.",
+    "img": "/images/venkatrao_jagan_img.JPG"
+  },
+  {
+    "id": "guest-03",
+    "name": "Sri Pawan Kalyan",
+    "designation": "Deputy Chief Minister of Andhra Pradesh",
+    "event": "Youth Volunteer and Blood Donation Coordination",
+    "year": 2024,
+    "context": "Distinguished interaction regarding scaling blood donation camps. Sri Pawan Kalyan appreciated the youth engagement models of the trust.",
+    "img": "/images/venkatrao_pawankalyan.jpg"
+  },
+  {
+    "id": "guest-04",
+    "name": "Superintendent of Police",
+    "designation": "IPS Officer, District Police Chief",
+    "event": "Joint Blood Donation Camp Coordination",
+    "year": 2024,
+    "context": "Coordinated at the police welfare center for voluntary blood camps. Commended the samithi for prompt response in emergencies.",
+    "img": "/images/venkatrao_congrats_police_img (2).jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "award-2025",
+    "title": "Distinguished Public Service Felicitation",
+    "year": 2025,
+    "presentedBy": "P4 Journalists Association",
+    "reason": "Outstanding public welfare service, educational support, and community development contributions in the Amaravati region.",
+    "description": "Honored with the Amaravati Vishishta Seva Puraskaram (Distinguished Service Award) at the P4 Margadarsakula Mahotsavam. The award was presented to LN VEMULA VENKATRAO in recognition of the trust's continuous charitable activities, including distributing study kits, conducting health camps, and driving community initiatives.",
+    "img": "/images/award_img1.JPG"
+  },
+  {
+    "id": "award-2019",
+    "title": "State Photographers Association Felicitation",
+    "year": 2019,
+    "presentedBy": "State Photographers Association",
+    "reason": "Recognizing long-standing support to the photographers' community, organizing welfare initiatives, and promoting social causes.",
+    "description": "LN VEMULA VENKATRAO was honored with a formal shawl felicitation (sanmanam) during their annual community gathering. The recognition celebrates the trust's ongoing commitment to supporting local freelance photographers, executing community service programs, and providing educational materials to the children of photographers' union members.",
+    "img": "/images/state_photgraphers_association_sanmanam.JPG"
+  },
+  {
+    "id": "award-2015",
+    "title": "Lions Club Leadership Recognition",
+    "year": 2015,
+    "presentedBy": "Lions Club of Vijayawada Smiles",
+    "reason": "Exceptional leadership, community service mobilization, and successful coordination of public welfare programs.",
+    "description": "LN VEMULA VENKATRAO received the Lions Club Leadership Recognition from Sri Narasinga Rao, Secretary of Lions Club of Vijayawada Smiles. The award honors the trust's dedication to community welfare, specifically organizing medical checkups, blood donation drives, and educational support campaigns in Vijayawada and surrounding rural sectors.",
+    "img": "/images/DSC_0198_Lions_club_of_vijayawada_smiles_secretary_narasinga_rao_garu.JPG"
+  }
+]
